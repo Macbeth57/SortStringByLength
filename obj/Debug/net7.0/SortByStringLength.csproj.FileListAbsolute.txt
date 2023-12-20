@@ -1,0 +1,14 @@
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\SortByStringLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\SortByStringLength.AssemblyInfoInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\SortByStringLength.AssemblyInfo.cs
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\SortByStringLength.csproj.CoreCompileInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\bin\Debug\net7.0\SortByStringLength.exe
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\bin\Debug\net7.0\SortByStringLength.deps.json
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\bin\Debug\net7.0\SortByStringLength.runtimeconfig.json
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\bin\Debug\net7.0\SortByStringLength.dll
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\bin\Debug\net7.0\SortByStringLength.pdb
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\SortByStringLength.dll
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\refint\SortByStringLength.dll
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\SortByStringLength.pdb
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\SortByStringLength.genruntimeconfig.cache
+C:\Users\krust\OneDrive\Bureau\C#\SortByStingLength\SortByStringLength\obj\Debug\net7.0\ref\SortByStringLength.dll
